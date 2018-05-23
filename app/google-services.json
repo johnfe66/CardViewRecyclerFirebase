@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "579490228523",
+    "firebase_url": "https://basedatosfirebase-6b2ef.firebaseio.com",
+    "project_id": "basedatosfirebase-6b2ef",
+    "storage_bucket": "basedatosfirebase-6b2ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579490228523:android:b3ab761a96f30ba1",
+        "android_client_info": {
+          "package_name": "com.johnfe66.basedatosfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579490228523-0gh9csvhr81br2p7v14a9lples1j4j3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.johnfe66.basedatosfirebase",
+            "certificate_hash": "6fb3ef3c3ff7f421c5b1961fb4f8000c3135ac47"
+          }
+        },
+        {
+          "client_id": "579490228523-5m1b66kcsnq3botsbuv9fav0c0m6rek3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWu3TZaf2QZjxKtl2VSHxL0wHw9de19-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579490228523-5m1b66kcsnq3botsbuv9fav0c0m6rek3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579490228523:android:b7900d68e80102d2",
+        "android_client_info": {
+          "package_name": "com.johnfe66.cardviewrecyclerfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579490228523-37do538djkss726ij5gtsjub2ms33eba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.johnfe66.cardviewrecyclerfirebase",
+            "certificate_hash": "6fb3ef3c3ff7f421c5b1961fb4f8000c3135ac47"
+          }
+        },
+        {
+          "client_id": "579490228523-5m1b66kcsnq3botsbuv9fav0c0m6rek3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWu3TZaf2QZjxKtl2VSHxL0wHw9de19-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579490228523-5m1b66kcsnq3botsbuv9fav0c0m6rek3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
